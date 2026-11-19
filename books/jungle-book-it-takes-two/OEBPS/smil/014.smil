@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id226g">
+			<!--  -->
+			<text src="../014.xhtml#empty"/>
+			<audio clipBegin="138756ms" clipEnd="139741ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id226">
+			<!-- Mowgli -->
+			<text src="../014.xhtml#w226"/>
+			<audio clipBegin="139741ms" clipEnd="140271ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id227">
+			<!-- was -->
+			<text src="../014.xhtml#w227"/>
+			<audio clipBegin="140271ms" clipEnd="140531ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id228">
+			<!-- having -->
+			<text src="../014.xhtml#w228"/>
+			<audio clipBegin="140531ms" clipEnd="141051ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id229">
+			<!-- the -->
+			<text src="../014.xhtml#w229"/>
+			<audio clipBegin="141051ms" clipEnd="141161ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id230">
+			<!-- time -->
+			<text src="../014.xhtml#w230"/>
+			<audio clipBegin="141161ms" clipEnd="141801ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id231">
+			<!-- of -->
+			<text src="../014.xhtml#w231"/>
+			<audio clipBegin="141801ms" clipEnd="141901ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id232">
+			<!-- his -->
+			<text src="../014.xhtml#w232"/>
+			<audio clipBegin="141901ms" clipEnd="142311ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id233">
+			<!-- life -->
+			<text src="../014.xhtml#w233"/>
+			<audio clipBegin="142311ms" clipEnd="143411ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id234">
+			<!-- but -->
+			<text src="../014.xhtml#w234"/>
+			<audio clipBegin="143411ms" clipEnd="144211ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id235">
+			<!-- his -->
+			<text src="../014.xhtml#w235"/>
+			<audio clipBegin="144211ms" clipEnd="144341ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id236">
+			<!-- stomach -->
+			<text src="../014.xhtml#w236"/>
+			<audio clipBegin="144341ms" clipEnd="144951ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id237">
+			<!-- started -->
+			<text src="../014.xhtml#w237"/>
+			<audio clipBegin="144951ms" clipEnd="145421ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id238">
+			<!-- grumbling -->
+			<text src="../014.xhtml#w238"/>
+			<audio clipBegin="145421ms" clipEnd="146471ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id239">
+			<!-- There -->
+			<text src="../014.xhtml#w239"/>
+			<audio clipBegin="146471ms" clipEnd="146731ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id240">
+			<!-- are -->
+			<text src="../014.xhtml#w240"/>
+			<audio clipBegin="146731ms" clipEnd="146791ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id241">
+			<!-- some -->
+			<text src="../014.xhtml#w241"/>
+			<audio clipBegin="146791ms" clipEnd="147101ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id242">
+			<!-- bananas -->
+			<text src="../014.xhtml#w242"/>
+			<audio clipBegin="147101ms" clipEnd="148471ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id243">
+			<!-- Let's -->
+			<text src="../014.xhtml#w243"/>
+			<audio clipBegin="148471ms" clipEnd="148841ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id244">
+			<!-- race -->
+			<text src="../014.xhtml#w244"/>
+			<audio clipBegin="148841ms" clipEnd="149431ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id245">
+			<!-- he -->
+			<text src="../014.xhtml#w245"/>
+			<audio clipBegin="149431ms" clipEnd="149591ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id246">
+			<!-- cried -->
+			<text src="../014.xhtml#w246"/>
+			<audio clipBegin="149591ms" clipEnd="150271ms" src="../audio/9781484744765.m4a"/>
+		</par>
+		<par id="id246g">
+			<!--  -->
+			<text src="../014.xhtml#empty1"/>
+			<audio clipBegin="150271ms" clipEnd="150846ms" src="../audio/9781484744765.m4a"/>
+		</par>
+	</body>
+</smil>

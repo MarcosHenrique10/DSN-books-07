@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="14625ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- written -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="14625ms" clipEnd="15005ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="15005ms" clipEnd="15185ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Ward -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="15185ms" clipEnd="15615ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Greene -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="15615ms" clipEnd="16675ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="16675ms" clipEnd="17435ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="17435ms" clipEnd="17605ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- the -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="17605ms" clipEnd="17675ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Walt -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="17675ms" clipEnd="18115ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- disney -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="18115ms" clipEnd="18445ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- studios -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="18445ms" clipEnd="19335ms" src="../audio/9781423195474.m4a"/>
+    </par>
+    <par id="id10g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="19335ms" clipEnd="19879ms" src="../audio/9781423195474.m4a"/>
+    </par>
+  </body>
+</smil>

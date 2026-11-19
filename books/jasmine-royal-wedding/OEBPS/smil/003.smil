@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="100ms" clipEnd="8023ms" src="../audio/9781484750612.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="8023ms" clipEnd="8553ms" src="../audio/9781484750612.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Princess -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="8553ms" clipEnd="10403ms" src="../audio/9781484750612.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Jasmine's -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="10403ms" clipEnd="11053ms" src="../audio/9781484750612.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Royal -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="11053ms" clipEnd="11613ms" src="../audio/9781484750612.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Wedding -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="11613ms" clipEnd="12033ms" src="../audio/9781484750612.m4a"/>
+    </par>
+    <par id="id5g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="12033ms" clipEnd="13119ms" src="../audio/9781484750612.m4a"/>
+    </par>
+  </body>
+</smil>

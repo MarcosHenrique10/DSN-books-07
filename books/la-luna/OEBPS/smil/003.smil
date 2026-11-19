@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="18905ms" src="../audio/9781484750643.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- La -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="18905ms" clipEnd="19135ms" src="../audio/9781484750643.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Launa -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="19135ms" clipEnd="20325ms" src="../audio/9781484750643.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- by -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="20325ms" clipEnd="20645ms" src="../audio/9781484750643.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Enrico -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="20645ms" clipEnd="21405ms" src="../audio/9781484750643.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Casarosa -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="21405ms" clipEnd="22325ms" src="../audio/9781484750643.m4a"/>
+    </par>
+    <par id="id5g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="22325ms" clipEnd="23433ms" src="../audio/9781484750643.m4a"/>
+    </par>
+  </body>
+</smil>

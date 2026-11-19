@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+  <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="0ms" clipEnd="14700ms" src="../audio/9781484706305.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="14700ms" clipEnd="15495ms" src="../audio/9781484706305.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="15495ms" clipEnd="15725ms" src="../audio/9781484706305.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- the -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="15725ms" clipEnd="15845ms" src="../audio/9781484706305.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Disney -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="15845ms" clipEnd="16395ms" src="../audio/9781484706305.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="16395ms" clipEnd="17295ms" src="../audio/9781484706305.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Artists -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="17295ms" clipEnd="17995ms" src="../audio/9781484706305.m4a"/>
+    </par>
+     <par id="id6g">
+      <!-- Artists -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="17995ms" clipEnd="19500ms" src="../audio/9781484706305.m4a"/>
+    </par>
+  </body>
+</smil>

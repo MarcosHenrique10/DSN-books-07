@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id193g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="105753ms" clipEnd="106773ms" src="../audio/9781368039802.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- Lady -->
+			<text src="../016.xhtml#w193"/>
+			<audio clipBegin="106773ms" clipEnd="107173ms" src="../audio/9781368039802.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- goes -->
+			<text src="../016.xhtml#w194"/>
+			<audio clipBegin="107173ms" clipEnd="107493ms" src="../audio/9781368039802.m4a"/>
+		</par>
+		<par id="id195">
+			<!-- inside -->
+			<text src="../016.xhtml#w195"/>
+			<audio clipBegin="107493ms" clipEnd="108823ms" src="../audio/9781368039802.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- She -->
+			<text src="../016.xhtml#w196"/>
+			<audio clipBegin="108823ms" clipEnd="108973ms" src="../audio/9781368039802.m4a"/>
+		</par>
+		<par id="id197">
+			<!-- looks -->
+			<text src="../016.xhtml#w197"/>
+			<audio clipBegin="108973ms" clipEnd="109523ms" src="../audio/9781368039802.m4a"/>
+		</par>
+		<par id="id198">
+			<!-- at -->
+			<text src="../016.xhtml#w198"/>
+			<audio clipBegin="109523ms" clipEnd="109643ms" src="../audio/9781368039802.m4a"/>
+		</par>
+		<par id="id199">
+			<!-- the -->
+			<text src="../016.xhtml#w199"/>
+			<audio clipBegin="109643ms" clipEnd="109713ms" src="../audio/9781368039802.m4a"/>
+		</par>
+		<par id="id200">
+			<!-- puppies' -->
+			<text src="../016.xhtml#w200"/>
+			<audio clipBegin="109713ms" clipEnd="110563ms" src="../audio/9781368039802.m4a"/>
+		</par>
+		<par id="id201">
+			<!-- bed -->
+			<text src="../016.xhtml#w201"/>
+			<audio clipBegin="110563ms" clipEnd="111023ms" src="../audio/9781368039802.m4a"/>
+		</par>
+		<par id="id201g">
+			<!--  -->
+			<text src="../016.xhtml#empty1"/>
+			<audio clipBegin="111023ms" clipEnd="111528ms" src="../audio/9781368039802.m4a"/>
+		</par>
+	</body>
+</smil>
