@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id301g">
+      <!--  -->
+      <text src="../032.xhtml#empty"/>
+      <audio clipBegin="208493ms" clipEnd="209500ms" src="../audio/9781484749807.m4a"/>
+    </par>
+    <par id="id301">
+      <!-- Pleakley's -->
+      <text src="../032.xhtml#w301"/>
+      <audio clipBegin="209500ms" clipEnd="210510ms" src="../audio/9781484749807.m4a"/>
+    </par>
+    <par id="id302">
+      <!-- planet -->
+      <text src="../032.xhtml#w302"/>
+      <audio clipBegin="210510ms" clipEnd="212340ms" src="../audio/9781484749807.m4a"/>
+    </par>
+    <par id="id302g">
+      <!--  -->
+      <text src="../032.xhtml#empty1"/>
+      <audio clipBegin="212340ms" clipEnd="225838ms" src="../audio/9781484749807.m4a"/>
+    </par>
+  </body>
+</smil>

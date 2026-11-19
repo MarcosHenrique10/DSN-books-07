@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id37g">
+			<!--  -->
+			<text src="../007.xhtml#empty"/>
+			<audio clipBegin="26839ms" clipEnd="27654ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id37">
+			<!-- I -->
+			<text src="../007.xhtml#w37"/>
+			<audio clipBegin="27654ms" clipEnd="27894ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id38">
+			<!-- dunno -->
+			<text src="../007.xhtml#w38"/>
+			<audio clipBegin="27894ms" clipEnd="29674ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id39">
+			<!-- I -->
+			<text src="../007.xhtml#w39"/>
+			<audio clipBegin="29674ms" clipEnd="29834ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id40">
+			<!-- GUESS -->
+			<text src="../007.xhtml#w40"/>
+			<audio clipBegin="29834ms" clipEnd="31224ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id41">
+			<!-- replied -->
+			<text src="../007.xhtml#w41"/>
+			<audio clipBegin="31224ms" clipEnd="31634ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id42">
+			<!-- Brer -->
+			<text src="../007.xhtml#w42"/>
+			<audio clipBegin="31634ms" clipEnd="31824ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id43">
+			<!-- Bunnie -->
+			<text src="../007.xhtml#w43"/>
+			<audio clipBegin="31824ms" clipEnd="32504ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id44">
+			<!-- sadly -->
+			<text src="../007.xhtml#w44"/>
+			<audio clipBegin="32504ms" clipEnd="33214ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id44g">
+			<!--  -->
+			<text src="../007.xhtml#empty"/>
+			<audio clipBegin="33214ms" clipEnd="34289ms" src="../audio/9781368015523.m4a"/>
+		</par>
+	</body>
+</smil>

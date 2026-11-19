@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id40g">
+			<!--  -->
+			<text src="../005.xhtml#empty"/>
+			<audio clipBegin="35525ms" clipEnd="36050ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id40">
+			<!-- Go -->
+			<text src="../005.xhtml#w40"/>
+			<audio clipBegin="36050ms" clipEnd="36300ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id41">
+			<!-- back -->
+			<text src="../005.xhtml#w41"/>
+			<audio clipBegin="36300ms" clipEnd="36570ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id42">
+			<!-- to -->
+			<text src="../005.xhtml#w42"/>
+			<audio clipBegin="36570ms" clipEnd="36710ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id43">
+			<!-- the -->
+			<text src="../005.xhtml#w43"/>
+			<audio clipBegin="36710ms" clipEnd="36880ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id44">
+			<!-- Outlands -->
+			<text src="../005.xhtml#w44"/>
+			<audio clipBegin="36880ms" clipEnd="38050ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id45">
+			<!-- Kion -->
+			<text src="../005.xhtml#w45"/>
+			<audio clipBegin="38050ms" clipEnd="38580ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id46">
+			<!-- cries -->
+			<text src="../005.xhtml#w46"/>
+			<audio clipBegin="38580ms" clipEnd="39170ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id46g">
+			<!--  -->
+			<text src="../005.xhtml#empty"/>
+			<audio clipBegin="39170ms" clipEnd="40085ms" src="../audio/9781484777671.m4a"/>
+		</par>
+	</body>
+</smil>

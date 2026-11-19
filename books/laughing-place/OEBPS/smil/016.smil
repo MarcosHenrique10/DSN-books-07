@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id212g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="121559ms" clipEnd="122684ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id212">
+			<!-- Even -->
+			<text src="../016.xhtml#w212"/>
+			<audio clipBegin="122684ms" clipEnd="123054ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id213">
+			<!-- I -->
+			<text src="../016.xhtml#w213"/>
+			<audio clipBegin="123054ms" clipEnd="123424ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id214">
+			<!-- had -->
+			<text src="../016.xhtml#w214"/>
+			<audio clipBegin="123424ms" clipEnd="123694ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id215">
+			<!-- the -->
+			<text src="../016.xhtml#w215"/>
+			<audio clipBegin="123694ms" clipEnd="123784ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id216">
+			<!-- blues -->
+			<text src="../016.xhtml#w216"/>
+			<audio clipBegin="123784ms" clipEnd="124274ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id217">
+			<!-- once -->
+			<text src="../016.xhtml#w217"/>
+			<audio clipBegin="124274ms" clipEnd="125484ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id218">
+			<!-- REAL -->
+			<text src="../016.xhtml#w218"/>
+			<audio clipBegin="125484ms" clipEnd="125884ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id219">
+			<!-- BAD -->
+			<text src="../016.xhtml#w219"/>
+			<audio clipBegin="125884ms" clipEnd="127304ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id220">
+			<!-- said -->
+			<text src="../016.xhtml#w220"/>
+			<audio clipBegin="127304ms" clipEnd="127594ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id221">
+			<!-- Brer -->
+			<text src="../016.xhtml#w221"/>
+			<audio clipBegin="127594ms" clipEnd="127824ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id222">
+			<!-- Papa -->
+			<text src="../016.xhtml#w222"/>
+			<audio clipBegin="127824ms" clipEnd="129434ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id223">
+			<!-- Really -->
+			<text src="../016.xhtml#w223"/>
+			<audio clipBegin="129434ms" clipEnd="130264ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id224">
+			<!-- asked -->
+			<text src="../016.xhtml#w224"/>
+			<audio clipBegin="130264ms" clipEnd="130584ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id225">
+			<!-- Brer -->
+			<text src="../016.xhtml#w225"/>
+			<audio clipBegin="130584ms" clipEnd="130744ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id226">
+			<!-- Bunnie -->
+			<text src="../016.xhtml#w226"/>
+			<audio clipBegin="130744ms" clipEnd="131054ms" src="../audio/9781368015523.m4a"/>
+		</par>
+		<par id="id226g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="131054ms" clipEnd="131769ms" src="../audio/9781368015523.m4a"/>
+		</par>
+	</body>
+</smil>

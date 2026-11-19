@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id50">
+      <!-- They -->
+      <text src="../012.xhtml#w50"/>
+      <audio clipBegin="52647ms" clipEnd="53575ms" src="../audio/9781423191759.m4a"/>
+    </par>
+    <par id="id51">
+      <!-- find -->
+      <text src="../012.xhtml#w51"/>
+      <audio clipBegin="53575ms" clipEnd="54045ms" src="../audio/9781423191759.m4a"/>
+    </par>
+    <par id="id52">
+      <!-- bumblebees -->
+      <text src="../012.xhtml#w52"/>
+      <audio clipBegin="54045ms" clipEnd="54985ms" src="../audio/9781423191759.m4a"/>
+    </par>
+  </body>
+</smil>

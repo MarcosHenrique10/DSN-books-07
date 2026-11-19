@@ -1,0 +1,647 @@
+@font-face
+{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}
+
+@font-face
+{
+  font-family: "century";
+  src: url(../fonts/century.ttf);
+}
+
+@font-face
+{
+  font-family: "LithosPro-Black";
+  src: url(../fonts/LithosPro-Black.ttf);
+}
+@font-face
+{
+  font-family: "ChaparralPro-Regular";
+  src: url(../fonts/ChaparralPro-Regular.ttf);
+}
+@font-face
+{
+  font-family: "ChaparralPro-Bold";
+  src: url(../fonts/ChaparralPro-Bold.ttf);
+}
+
+img{z-index:-1;}
+
+body {
+	width: 775px;
+	height: 969px;
+	margin: 0;
+	border: none;
+	font-family: "ChaparralPro-Regular";
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 775px;
+	height: 969px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 714px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item1{
+	position: absolute;
+	top: 50px;
+	left: 240px;
+	right: 0px;
+width: 318px;height: 242px;}
+div.page3_item2{
+	position: absolute;
+	top: 722px;
+	left: 27px;
+	right: 0px;
+}
+div.page3_item3{
+	position: absolute;
+	top: 879px;
+	left: 326px;
+	right: 0px;
+}
+
+div.page5_item1{
+	position: absolute;
+	top: 122px;
+	left: 99px;
+	right: 0px;
+width: 627px;height: 410px;}
+div.page6_item1{
+	top: 726px;
+	left: 267px;
+	position: absolute;
+	right: 0px;
+width: 305px;height: 356px;}
+div.page7_item1{
+	position: absolute;
+	top: 726px;
+	left: 165px;
+	right: 0px;
+width: 443px;height: 101px;}
+div.page8_item1{
+	position: absolute;
+	top: 316px;
+	left: 130px;
+	right: 0px;
+width: 501px;height: 232px;}
+div.page9_item1{
+	position: absolute;
+	top: 316px;
+	left: 425px;
+	right: 0px;
+width: 290px;height: 202px;}
+div.page10_item1{
+	position: absolute;
+	top: 164px;
+	left: 236px;
+	right: 0px;
+width: 361px;height: 117px;}
+div.page10_item2{
+	position: absolute;
+	top: 359px;
+	left: 401px;
+	right: 0px;
+width: 387px;height: 137px;}
+div.page12_item1{
+	position: absolute;
+	top: 58px;
+	left: 130px;
+	right: 0px;
+width: 450px;height: 175px;}
+div.page12_item2{
+	position: absolute;
+	top: 249px;
+	left: 435px;
+	right: 0px;
+width: 145px;height: 24px;}
+div.page13_item1{
+	position: absolute;
+	top: 58px;
+	left: 151px;
+	right: 0px;
+width: 477px;height: 130px;}
+div.page13_item2{
+	position: absolute;
+	top: 734px;
+	left: 151px;
+	right: 0px;
+width: 518px;height: 154px;}
+div.page14_item1{
+	position: absolute;
+	top: 538px;
+	left: 129px;
+	right: 0px;
+width: 521px;height: 345px;}
+div.page16_item1{
+	position: absolute;
+	top: 59px;
+	left: 82px;
+	right: 0px;
+width: 602px;height: 152px;}
+div.page16_item2{
+	position: absolute;
+	top: 399px;
+	left: 543px;
+	right: 0px;
+width: 43px;height: 37px;}
+div.page16_item3{
+	position: absolute;
+	top: 125px;
+	left: 519px;
+	right: 0px;
+-webkit-transform:rotate(-3deg);
+width: 153px;height: 41px;}
+div.page16_item4{
+	position: absolute;
+	top: 221px;
+	left: 478px;
+	right: 0px;
+-webkit-transform:rotate(-6deg);
+width: 174px;height: 44px;}
+div.page16_item5{
+	position: absolute;
+	top: 288px;
+	left: 493px;
+	right: 0px;
+-webkit-transform:rotate(6deg);
+width: 143px;height: 49px;}
+div.page16_item6{
+	position: absolute;
+	top: 339px;
+	left: 502px;
+	right: 0px;
+-webkit-transform:rotate(-6deg);
+width: 213px;height: 43px;}
+div.page16_item7{
+	position: absolute;
+	top: 447px;
+	left: 454px;
+	right: 0px;
+-webkit-transform:rotate(5deg);
+width: 253px;height: 39px;}
+div.page16_item8{
+	position: absolute;
+	top: 469px;
+	left: 498px;
+	right: 0px;
+width: 46px;height: 34px;}
+div.page16_item9{
+	position: absolute;
+	top: 474px;
+	left: 550px;
+	right: 0px;
+width: 119px;height: 39px;}
+div.page17_item1{
+	position: absolute;
+	top: 608px;
+	left: 214px;
+	right: 0px;
+width: 356px;height: 113px;}
+div.page17_item2{
+	position: absolute;
+	top: 814px;
+	left: 214px;
+	right: 0px;
+width: 376px;height: 88px;}
+div.page18_item1{
+	position: absolute;
+	top: 278px;
+	left: 188px;
+	right: 0px;
+width: 384px;height: 193px;}
+div.page19_item1{
+	position: absolute;
+	top: 617px;
+	left: 135px;
+	right: 0px;
+width: 412px;height: 234px;}
+div.page20_item1{
+	position: absolute;
+	top: 96px;
+	left: 317px;
+	right: 0px;
+width: 253px;height: 82px;}
+div.page20_item2{
+	position: absolute;
+	top: 724px;
+	left: 509px;
+	right: 0px;
+width: 133px;height: 93px;}
+div.page21_item1{
+	position: absolute;
+	top: 85px;
+	left: 308px;
+	right: 0px;
+width: 135px;height: 116px;}
+div.page21_item2{
+	position: absolute;
+	top: 554px;
+	left: 389px;
+	right: 0px;
+width: 140px;height: 118px;}
+div.page23_item1{
+	position: absolute;
+	top: 551px;
+	left: 141px;
+	right: 0px;
+width: 570px;height: 313px;}
+div.page24_item1{
+	position: absolute;
+	top: 98px;
+	left: 326px;
+	right: 0px;
+width: 308px;height: 56px;}
+div.page24_item2{
+	position: absolute;
+	top: 569px;
+	left: 119px;
+	right: 0px;
+width: 307px;height: 148px;}
+div.page25_item1{
+	position: absolute;
+	top: 469px;
+	left: 390px;
+	right: 0px;
+width: 336px;height: 208px;}
+div.page26_item1{
+	position: absolute;
+	top: 654px;
+	left: 146px;
+	right: 0px;
+width: 550px;height: 84px;}
+div.page28_item1{
+	position: absolute;
+	top: 122px;
+	left: 128px;
+	right: 0px;
+width: 353px;height: 197px;}
+div.page29_item1{
+	position: absolute;
+	top: 123px;
+	left: 128px;
+	right: 0px;
+width: 325px;height: 151px;}
+div.page30_item1{
+	position: absolute;
+	top: 58px;
+	left: 64px;
+	right: 0px;
+}
+div.page30_item2{
+	position: absolute;
+	top: 221px;
+	left: 278px;
+	right: 0px;
+width: 286px;height: 63px;}
+div.page30_item3{
+	position: absolute;
+	top: 516px;
+	left: 188px;
+	right: 0px;
+width: 327px;height: 87px;}
+div.page31_item1{
+	position: absolute;
+	top: 133px;
+	left: 111px;
+	right: 0px;
+width: 223px;height: 116px;}
+div.page31_item2{
+	position: absolute;
+	top: 603px;
+	left: 76px;
+	right: 0px;
+width: 190px;height: 60px;}
+div.page32_item1{
+	position: absolute;
+	top: 392px;
+	left: 127px;
+	right: 0px;
+width: 478px;height: 254px;}
+div.page34_item1{
+	position: absolute;
+	top: 190px;
+	left: 94px;
+	right: 0px;
+width: 315px;height: 221px;}
+p.crt{
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	color: #B76F4C;
+}
+p.crt1{
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 16px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	color: #B76F4C;
+}
+p.auth{
+	letter-spacing:2px;
+	font-size: 18px;
+	line-height: 20px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 13px;
+	word-spacing: 0px;
+	color: #D07E33;
+}
+span.dropcap{
+	font-size: 13px;
+}
+span.arialp
+{
+font-family: "Arial";
+}
+
+span.red_b1{
+line-height:34px;
+  font-family: "LithosPro-Black";
+	font-size: 27px;
+color: #A52627;
+}
+
+span.red30{
+  font-family: "LithosPro-Black";
+	font-size: 24px;
+color: #A12828;
+}
+
+
+
+span.red30aa{
+  font-family: "LithosPro-Black";
+	font-size: 21px;
+color: #A12828;
+}
+
+span.red_bb{
+  font-family: "LithosPro-Black";
+	font-size: 30px;
+	line-height: 35px;
+color: #7E2323;
+}
+
+
+span.white{
+color: #FFFFFF;
+}
+span.white1{
+line-height:0px;
+  font-family: "LithosPro-Black";
+	font-size: 30px;
+color: #F5EDBE;
+}
+p.nonindent1{
+	font-size: 23px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.nonindent{
+	font-size: 23px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 13px;
+	margin-bottom: 0px;
+}
+
+p.nonindentb{
+	font-size: 23px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 12px;
+	margin-bottom: 0px;
+}
+p.nonindentb2{
+	font-size: 23px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+}
+
+p.center{
+	font-size: 23px;
+	line-height: 28px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.nonindent_right{
+	font-size: 23px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 0px;
+	margin-left: 100px;
+	margin-top: 13px;
+	margin-bottom: 0px;
+}
+span.spacer{
+margin-left: 90px;
+}
+span.spacer1{
+margin-left: 150px;
+}
+
+p.bottom_text{
+	font-family: "century";
+	font-size: 13px;
+	line-height: 20px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom:08px;
+	word-spacing: 0px;
+	color: #D07E33;
+}
+.left
+{
+margin-left:24px;
+}
+p.big{
+	color:#8D2525;
+	font-family: "LithosPro-Black";
+	font-size: 30px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.big1{
+	color:#7E2323;
+	font-family: "LithosPro-Black";
+	font-size: 30px;
+	line-height: 31px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+span.comma
+{
+color:#000000;
+font-size: 23px;
+font-family: "ChaparralPro-Regular";
+}
+
+span.comma1
+{
+color:#000000;
+margin-left:-3px;
+vertical-align:-2px;
+font-size: 23px;
+font-family: "ChaparralPro-Regular";
+}
+
+
+.media-overlay-active {
+color:#f00 !important; 
+padding-bottom:10px;
+}
+
+a.media-overlay-active { opacity:1 !important;}
+
+.img1{
+	position: absolute;
+	top: 76px;
+	left: 142px;
+	opacity:0;
+}
+
+.img2{
+	position: absolute;
+	top: 124px;
+	left: 250px;
+	opacity:0;
+}
+.img3{
+	position: absolute;
+	top: 243px;
+	left: 348px;
+	opacity:0;
+}
+.img4{
+	position: absolute;
+	top: 247px;
+	left: 212px;
+	opacity:0;
+}
+.img5{
+	position: absolute;
+	top: 236px;
+	left: 269px;
+	opacity:0;
+}
+
+.img6{
+	position: absolute;
+	top: 213px;
+	left: 382px;
+	opacity:0;
+}
+
+.img7{
+	position: absolute;
+	top: 745px;
+	left: 215px;
+	opacity:0;
+}
+
+.img8{
+	position: absolute;
+	top: 745px;
+	left: 384px;
+	opacity:0;
+}
+span.red{
+  font-family: "LithosPro-Black";
+	font-size: 19px;
+color: #A12828;
+}
+
+.media-overlay-active span.dropcap,
+.media-overlay-active span.red,
+.media-overlay-active span.red_b1,
+.media-overlay-active span.red30,
+.media-overlay-active span.red30aa,
+.media-overlay-active span.red_bb,
+.media-overlay-active span.white,
+.media-overlay-active span.white1,
+.media-overlay-active span.comma,
+.media-overlay-active span.comma1
+{
+color:#f00 !important; 
+}
+
+div.page34_item1 .media-overlay-active{
+color:#FFFF00 !important; 
+}
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

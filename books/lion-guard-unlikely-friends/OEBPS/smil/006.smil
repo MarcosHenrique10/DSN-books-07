@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id47g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="40085ms" clipEnd="41000ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id47">
+			<!-- Kion -->
+			<text src="../006.xhtml#w47"/>
+			<audio clipBegin="41000ms" clipEnd="41560ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id48">
+			<!-- goes -->
+			<text src="../006.xhtml#w48"/>
+			<audio clipBegin="41560ms" clipEnd="41930ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id49">
+			<!-- after -->
+			<text src="../006.xhtml#w49"/>
+			<audio clipBegin="41930ms" clipEnd="42260ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id50">
+			<!-- Janja's -->
+			<text src="../006.xhtml#w50"/>
+			<audio clipBegin="42260ms" clipEnd="42820ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id51">
+			<!-- crew -->
+			<text src="../006.xhtml#w51"/>
+			<audio clipBegin="42820ms" clipEnd="43790ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id52">
+			<!-- The -->
+			<text src="../006.xhtml#w52"/>
+			<audio clipBegin="43790ms" clipEnd="43870ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id53">
+			<!-- river -->
+			<text src="../006.xhtml#w53"/>
+			<audio clipBegin="43870ms" clipEnd="44400ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id54">
+			<!-- moves -->
+			<text src="../006.xhtml#w54"/>
+			<audio clipBegin="44400ms" clipEnd="44860ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id55">
+			<!-- fast -->
+			<text src="../006.xhtml#w55"/>
+			<audio clipBegin="44860ms" clipEnd="45450ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id55g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="45450ms" clipEnd="46020ms" src="../audio/9781484777671.m4a"/>
+		</par>
+	</body>
+</smil>

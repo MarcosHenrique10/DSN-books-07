@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id186g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="132060ms" clipEnd="133000ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id186">
+			<!-- Leave -->
+			<text src="../020.xhtml#w186"/>
+			<audio clipBegin="133000ms" clipEnd="133360ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id187">
+			<!-- me -->
+			<text src="../020.xhtml#w187"/>
+			<audio clipBegin="133360ms" clipEnd="133470ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id188">
+			<!-- alone -->
+			<text src="../020.xhtml#w188"/>
+			<audio clipBegin="133470ms" clipEnd="134540ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id189">
+			<!-- says -->
+			<text src="../020.xhtml#w189"/>
+			<audio clipBegin="134540ms" clipEnd="134860ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id190">
+			<!-- Kion -->
+			<text src="../020.xhtml#w190"/>
+			<audio clipBegin="134860ms" clipEnd="136000ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id191">
+			<!-- I'm -->
+			<text src="../020.xhtml#w191"/>
+			<audio clipBegin="136000ms" clipEnd="136240ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- freeing -->
+			<text src="../020.xhtml#w192"/>
+			<audio clipBegin="136240ms" clipEnd="136980ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- you -->
+			<text src="../020.xhtml#w193"/>
+			<audio clipBegin="136980ms" clipEnd="137140ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- silly -->
+			<text src="../020.xhtml#w194"/>
+			<audio clipBegin="137140ms" clipEnd="138100ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id195">
+			<!-- says -->
+			<text src="../020.xhtml#w195"/>
+			<audio clipBegin="138100ms" clipEnd="138440ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- Jasiri -->
+			<text src="../020.xhtml#w196"/>
+			<audio clipBegin="138440ms" clipEnd="139080ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id196g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="139080ms" clipEnd="140065ms" src="../audio/9781484777671.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,432 @@
+img{z-index:-1;}
+
+body {
+	width: 707px;
+	height: 1060px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 707px;
+	height: 1060px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+p.nonindent{
+	font-size: 49px;
+	line-height: 79px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family:"CenturyOSMTStd";
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+
+@font-face {
+	font-family:"CenturyOSMTStd";
+	src: url(../fonts/CenturyOSMTStd.otf);
+}
+
+@font-face {
+	font-family:"Arial";
+	src: url(../fonts/Arial.ttf);
+}
+
+@font-face {
+	font-family:"CenturyOldStyleStd-Regular";
+	src: url(../fonts/CenturyOldStyleStd-Regular.otf);
+}
+@font-face {
+	font-family:"CenturyOSMTStd-Italic";
+	src: url(../fonts/CenturyOSMTStd-Italic.otf);
+}
+
+
+@font-face {
+	font-family:"TriplexBold";
+	src: url(../fonts/TriplexBold.ttf);
+}
+
+@font-face {
+	font-family:"TriplexExtraBold";
+	src: url(../fonts/TriplexExtraBold.ttf);
+}
+
+@font-face {
+	font-family:"TriplexLight";
+	src: url(../fonts/TriplexLight.ttf);
+}
+
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 778px;
+	left: 88px;
+	right: 0px;
+	width:515px;
+}
+div.page3_item1{
+	position: absolute;
+	top: 724px;
+	left: 2px;
+	right: 0px;
+}
+div.page3_item2{
+	position: absolute;
+	top: 971px;
+	left: 37px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 71px;
+	left: 110px;
+	right: 0px;
+}
+div.page7_item1{
+	position: absolute;
+	top: 60px;
+	left: 75px;
+	right: 0px;
+}
+div.page8_item1{
+	position: absolute;
+	top: 497px;
+	left: 117px;
+	right: 0px;
+}
+div.page9_item1{
+	position: absolute;
+	top: 71px;
+	left: 87px;
+	right: 0px;
+}
+div.page10_item1{
+	position: absolute;
+	top: 71px;
+	left: 109px;
+	right: 0px;
+}
+div.page11_item1{
+	position: absolute;
+	top: 72px;
+	left: 112px;
+	right: 0px;
+}
+div.page12_item1{
+	position: absolute;
+	top: 71px;
+	left: 110px;
+	right: 0px;
+}
+div.page13_item1{
+	position: absolute;
+	top: 71px;
+	left: 110px;
+	right: 0px;
+}
+div.page14_item1{
+	position: absolute;
+	top: 72px;
+	left: 110px;
+	right: 0px;
+}
+div.page15_item1{
+	position: absolute;
+	top: 69px;
+	left: 106px;
+	right: 0px;
+}
+div.page16_item1{
+	position: absolute;
+	top: 71px;
+	left: 110px;
+	right: 0px;
+}
+div.page17_item1{
+	position: absolute;
+	top: 70px;
+	left: 108px;
+	right: 0px;
+}
+div.page18_item1{
+	position: absolute;
+	top: 662px;
+	left: 110px;
+	right: 0px;
+}
+div.page19_item1{
+	position: absolute;
+	top: 817px;
+	left: 110px;
+	right: 0px;
+}
+div.page20_item1{
+	position: absolute;
+	top: 71px;
+	left: 110px;
+	right: 0px;
+}
+div.page21_item1{
+	position: absolute;
+	top: 821px;
+	left: 112px;
+	right: 0px;
+}
+div.page22_item1{
+	position: absolute;
+	top: 55px;
+	left: 103px;
+	right: 0px;
+}
+div.page24_item1{
+	position: absolute;
+	top: 662px;
+	left: 110px;
+	right: 0px;
+}
+div.page25_item1{
+	position: absolute;
+	top: 70px;
+	left: 110px;
+	right: 0px;
+}
+div.page26_item1{
+	position: absolute;
+	top: 72px;
+	left: 110px;
+	right: 0px;
+}
+div.page27_item1{
+	position: absolute;
+	top: 507px;
+	left: 111px;
+	right: 0px;
+}
+div.page28_item1{
+	position: absolute;
+	top: 665px;
+	left: 110px;
+	right: 0px;
+}
+div.page29_item1{
+	position: absolute;
+	top: 820px;
+	left: 111px;
+	right: 0px;
+}
+div.page30_item1{
+	position: absolute;
+	top: 71px;
+	left: 110px;
+	right: 0px;
+}
+div.page31_item1{
+	position: absolute;
+	top: 71px;
+	left: 110px;
+	right: 0px;
+}
+div.page32_item1{
+	position: absolute;
+	top: 72px;
+	left: 90px;
+	right: 0px;
+}
+
+div.page34_item1{
+	position: absolute;
+	top: 417px;
+	left: 40px;
+	right: 0px;
+}
+
+div.page34_item2{
+	position: absolute;
+	top: 580px;
+	left: 148px;
+	right: 0px;
+}
+
+div.page34_item3{
+	position: absolute;
+	top: 658px;
+	left: 148px;
+	right: 0px;
+}
+
+div.page34_item4{
+	position: absolute;
+	top: 751px;
+	left: 148px;
+	right: 0px;
+}
+
+div.page34_item5{
+	position: absolute;
+	top: 837px;
+	left: 148px;
+	right: 0px;
+}
+
+p.copy{
+	font-size: 16px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 19px;
+	font-family:"CenturyOSMTStd";
+    word-spacing: 0px;
+}
+p.copy1{
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 19px;
+	font-family:"CenturyOSMTStd";
+    word-spacing: 0px;
+}
+
+p.nonindent1{
+	font-size: 48px;
+	line-height: 78px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family:"CenturyOSMTStd";
+}
+span.italic
+{
+font-family:"CenturyOSMTStd-Italic";
+}
+p.nonindent2{
+	font-size: 46px;
+	line-height: 78px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family:"CenturyOSMTStd";
+}
+
+p.title{
+	font-size: 27px;
+	line-height: 43px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family:"CenturyOSMTStd";
+}
+
+p.title1{
+	font-size: 20px;
+	line-height: 22px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family:"CenturyOSMTStd";
+}
+
+.media-overlay-active{
+color:#f00 !important;
+}
+
+.purple-highlight span.media-overlay-active { color:#c196f0 !important; }
+
+
+.-epub-media-overlay-active span.underline
+{
+color:#f00 !important;
+}
+
+span.arial{
+font-family:"Arial";
+}
+
+span.underline{
+border-bottom:3px solid;
+}
+p.bm_head{
+	color:#FFFFFF;
+	font-size: 33px;
+	line-height: 33px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 6px;
+	font-family:"TriplexBold";
+}
+
+p.bm_text{
+	color:#FFFFFF;
+	font-size: 22px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"TriplexLight";
+}
+
+p.bm_head1{
+	color:#FFFFFF;
+	font-size: 25px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 4px;
+	font-family:"TriplexExtraBold";
+}
+
+p.bm_text1{
+	color:#FFFFFF;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: left;
+	text-indent: -10px;
+	margin-top: 0px;
+	margin-left: 9px;
+	margin-bottom: 0px;
+	font-family:"TriplexLight";
+}
+
+span.sp
+{
+letter-spacing:-4px;
+}

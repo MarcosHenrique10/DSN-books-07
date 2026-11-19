@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id35g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="32155ms" clipEnd="33030ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id35">
+			<!-- Hyenas -->
+			<text src="../004.xhtml#w35"/>
+			<audio clipBegin="33030ms" clipEnd="33580ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id36">
+			<!-- are -->
+			<text src="../004.xhtml#w36"/>
+			<audio clipBegin="33580ms" clipEnd="33700ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id37">
+			<!-- chasing -->
+			<text src="../004.xhtml#w37"/>
+			<audio clipBegin="33700ms" clipEnd="34200ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id38">
+			<!-- the -->
+			<text src="../004.xhtml#w38"/>
+			<audio clipBegin="34200ms" clipEnd="34330ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id39">
+			<!-- animals -->
+			<text src="../004.xhtml#w39"/>
+			<audio clipBegin="34330ms" clipEnd="35000ms" src="../audio/9781484777671.m4a"/>
+		</par>
+		<par id="id39g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="35000ms" clipEnd="35525ms" src="../audio/9781484777671.m4a"/>
+		</par>
+	</body>
+</smil>

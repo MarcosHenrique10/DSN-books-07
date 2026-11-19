@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id82g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="58905ms" clipEnd="59435ms" src="../audio/9781484749791.m4a"/>
+    </par>
+    <par id="id82">
+      <!-- Pleakley -->
+      <text src="../009.xhtml#w82"/>
+      <audio clipBegin="59435ms" clipEnd="59875ms" src="../audio/9781484749791.m4a"/>
+    </par>
+    <par id="id83">
+      <!-- and -->
+      <text src="../009.xhtml#w83"/>
+      <audio clipBegin="59875ms" clipEnd="60065ms" src="../audio/9781484749791.m4a"/>
+    </par>
+    <par id="id84">
+      <!-- Jumba -->
+      <text src="../009.xhtml#w84"/>
+      <audio clipBegin="60065ms" clipEnd="60525ms" src="../audio/9781484749791.m4a"/>
+    </par>
+    <par id="id85">
+      <!-- were -->
+      <text src="../009.xhtml#w85"/>
+      <audio clipBegin="60525ms" clipEnd="60795ms" src="../audio/9781484749791.m4a"/>
+    </par>
+    <par id="id86">
+      <!-- aliens -->
+      <text src="../009.xhtml#w86"/>
+      <audio clipBegin="60795ms" clipEnd="61385ms" src="../audio/9781484749791.m4a"/>
+    </par>
+    <par id="id87">
+      <!-- too -->
+      <text src="../009.xhtml#w87"/>
+      <audio clipBegin="61385ms" clipEnd="61815ms" src="../audio/9781484749791.m4a"/>
+    </par>
+    <par id="id87g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="61815ms" clipEnd="62809ms" src="../audio/9781484749791.m4a"/>
+    </par>
+  </body>
+</smil>

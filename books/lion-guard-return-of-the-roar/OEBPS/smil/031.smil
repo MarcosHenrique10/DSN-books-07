@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id937g">
+			<!--  -->
+			<text src="../031.xhtml#empty"/>
+			<audio clipBegin="498806ms" clipEnd="499286ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id937">
+			<!-- LOOKING -->
+			<text src="../031.xhtml#w937"/>
+			<audio clipBegin="499286ms" clipEnd="499736ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id938">
+			<!-- FOR -->
+			<text src="../031.xhtml#w938"/>
+			<audio clipBegin="499736ms" clipEnd="499926ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id939">
+			<!-- SOMETHING -->
+			<text src="../031.xhtml#w939"/>
+			<audio clipBegin="499926ms" clipEnd="500406ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id940">
+			<!-- FEATHERNECK -->
+			<text src="../031.xhtml#w940"/>
+			<audio clipBegin="500406ms" clipEnd="501506ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id941">
+			<!-- Ono -->
+			<text src="../031.xhtml#w941"/>
+			<audio clipBegin="501506ms" clipEnd="501886ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id942">
+			<!-- says -->
+			<text src="../031.xhtml#w942"/>
+			<audio clipBegin="501886ms" clipEnd="502236ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id943">
+			<!-- to -->
+			<text src="../031.xhtml#w943"/>
+			<audio clipBegin="502236ms" clipEnd="502326ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id944">
+			<!-- Mzingo -->
+			<text src="../031.xhtml#w944"/>
+			<audio clipBegin="502326ms" clipEnd="503736ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id945">
+			<!-- ZUKZ -->
+			<text src="../031.xhtml#w945"/>
+			<audio clipBegin="503736ms" clipEnd="504844ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id946">
+			<!-- ZAMA -->
+			<text src="../031.xhtml#w946"/>
+			<audio clipBegin="504844ms" clipEnd="506256ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id947">
+			<!-- Bunga -->
+			<text src="../031.xhtml#w947"/>
+			<audio clipBegin="506256ms" clipEnd="506696ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id948">
+			<!-- calls -->
+			<text src="../031.xhtml#w948"/>
+			<audio clipBegin="506696ms" clipEnd="507256ms" src="../audio/9781484718575.m4a"/>
+		</par>
+		<par id="id948g">
+			<!--  -->
+			<text src="../031.xhtml#empty1"/>
+			<audio clipBegin="507256ms" clipEnd="508311ms" src="../audio/9781484718575.m4a"/>
+		</par>
+	</body>
+</smil>
