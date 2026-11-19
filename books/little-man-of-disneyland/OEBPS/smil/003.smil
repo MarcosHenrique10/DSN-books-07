@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="13343ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Little -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="13343ms" clipEnd="13703ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- man -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="13703ms" clipEnd="14033ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- of -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="14033ms" clipEnd="14163ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Disneyland -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="14163ms" clipEnd="16043ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- By -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="16043ms" clipEnd="16333ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Annie -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="16333ms" clipEnd="16593ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- North -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="16593ms" clipEnd="16853ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Bedford -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="16853ms" clipEnd="18063ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="18063ms" clipEnd="18623ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- by -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="18623ms" clipEnd="18763ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- the -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="18763ms" clipEnd="18833ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Walt -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="18833ms" clipEnd="19093ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Disney -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="19093ms" clipEnd="19413ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Studio -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="19413ms" clipEnd="20483ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="20483ms" clipEnd="21023ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- by -->
+			<text src="../003.xhtml#w16"/>
+			<audio clipBegin="21023ms" clipEnd="21233ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- Dick -->
+			<text src="../003.xhtml#w17"/>
+			<audio clipBegin="21233ms" clipEnd="21563ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- Kelsey -->
+			<text src="../003.xhtml#w18"/>
+			<audio clipBegin="21563ms" clipEnd="21993ms" src="../audio/9781484787144.m4a"/>
+		</par>
+		<par id="id18g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="21993ms" clipEnd="22214ms" src="../audio/9781484787144.m4a"/>
+		</par>
+	</body>
+</smil>

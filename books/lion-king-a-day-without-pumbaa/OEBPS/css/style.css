@@ -1,0 +1,173 @@
+img{z-index:-1;}body {
+	width: 765px;
+	height: 979px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 979px;
+}
+
+@font-face{
+font-family:"arial";
+src: url(../fonts/arial.ttf);
+}
+
+@font-face{
+font-family:"AGaramondPro-Regular";
+src: url(../fonts/AGaramondPro-Regular.otf);
+}
+
+@font-face{
+font-family:"Cambria";
+src: url(../fonts/Cambria.ttf);
+}
+
+@font-face{
+font-family:"CambriaItalic";
+src: url(../fonts/CambriaItalic.ttf);
+}
+
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+p.nonindent{
+	font-size: 15px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.indent{
+	font-size: 21px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Cambria";
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 687px;
+	left: 0px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 52px;
+	left: 104px;
+	right: 0px;
+width: 553px;height: 192px;}
+div.page7_item1{
+	position: absolute;
+	top: 50px;
+	left: 53px;
+	right: 0px;
+width: 686px;height: 155px;}
+div.page7_item2{
+	position: absolute;
+	top: 810px;
+	left: 53px;
+	right: 0px;
+width: 679px;height: 115px;}
+div.page8_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 587px;height: 286px;}
+div.page10_item1{
+	position: absolute;
+	top: 84px;
+	left: 137px;
+	right: 0px;
+width: 584px;height: 181px;}
+div.page11_item1{
+	position: absolute;
+	top: 748px;
+	left: 138px;
+	right: 0px;
+width: 609px;height: 179px;}
+div.page12_item1{
+	position: absolute;
+	top: 92px;
+	left: 112px;
+	right: 0px;
+width: 635px;height: 292px;}
+div.page13_item1{
+	position: absolute;
+	top: 760px;
+	left: 185px;
+	right: 0px;
+width: 555px;height: 168px;}
+div.page15_item1{
+	position: absolute;
+	top: 205px;
+	left: 382px;
+	right: 0px;
+width: 372px;height: 653px;}
+div.page16_item1{
+	position: absolute;
+	top: 52px;
+	left: 53px;
+	right: 0px;
+width: 499px;height: 553px;}
+div.page18_item1{
+	position: absolute;
+	top: 84px;
+	left: 80px;
+	right: 0px;
+}
+
+span.italic{
+font-family:"CambriaItalic";
+}
+
+span.arialp{
+font-family:"arial";
+}
+
+p.copy{
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	color:white;
+	font-family:"AGaramondPro-Regular";
+}
+
+.media-overlay-active { color:#f00 !important; }
