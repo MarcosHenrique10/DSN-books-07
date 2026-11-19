@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id807g">
+      <!--  -->
+      <text src="../024.xhtml#empty"/>
+      <audio clipBegin="392887ms" clipEnd="393915ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id807">
+      <!-- Before -->
+      <text src="../024.xhtml#w807"/>
+      <audio clipBegin="393915ms" clipEnd="394235ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id808">
+      <!-- Jasmine -->
+      <text src="../024.xhtml#w808"/>
+      <audio clipBegin="394235ms" clipEnd="394855ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id809">
+      <!-- could -->
+      <text src="../024.xhtml#w809"/>
+      <audio clipBegin="394855ms" clipEnd="394975ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id810">
+      <!-- even -->
+      <text src="../024.xhtml#w810"/>
+      <audio clipBegin="394975ms" clipEnd="395235ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id811">
+      <!-- call -->
+      <text src="../024.xhtml#w811"/>
+      <audio clipBegin="395235ms" clipEnd="395605ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id812">
+      <!-- him -->
+      <text src="../024.xhtml#w812"/>
+      <audio clipBegin="395605ms" clipEnd="396255ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id813">
+      <!-- Rajah -->
+      <text src="../024.xhtml#w813"/>
+      <audio clipBegin="396255ms" clipEnd="396845ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id814">
+      <!-- ran -->
+      <text src="../024.xhtml#w814"/>
+      <audio clipBegin="396845ms" clipEnd="397085ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id815">
+      <!-- straight -->
+      <text src="../024.xhtml#w815"/>
+      <audio clipBegin="397085ms" clipEnd="397765ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id816">
+      <!-- toward -->
+      <text src="../024.xhtml#w816"/>
+      <audio clipBegin="397765ms" clipEnd="398185ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id817">
+      <!-- Mallika -->
+      <text src="../024.xhtml#w817"/>
+      <audio clipBegin="398185ms" clipEnd="398875ms" src="../audio/9781484752883.m4a"/>
+    </par>
+    <par id="id817g">
+      <!--  -->
+      <text src="../024.xhtml#empty1"/>
+      <audio clipBegin="398875ms" clipEnd="399670ms" src="../audio/9781484752883.m4a"/>
+    </par>
+  </body>
+</smil>

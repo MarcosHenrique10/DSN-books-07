@@ -1,0 +1,356 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"neutraface-text-book";
+	src: url(../fonts/NeutrafaceText-Book.otf);
+}
+@font-face {
+	font-family:"neutraface-text-book-italic";
+	src: url(../fonts/neutraface-text-book-italic.otf);
+}
+@font-face {
+	font-family:"neutraface-text-bold";
+	src: url(../fonts/NeutrafaceText-Bold.otf);
+}
+@font-face {
+	font-family:"neutraface-text-bold-italic";
+	src: url(../fonts/neutraface-text-bold-italic.otf);
+}
+@font-face {
+	font-family:"avenir-next-lt-pro-medium";
+	src: url(../fonts/AvenirNextLTPro-Medium.otf);
+}
+@font-face {
+	font-family:"burbank-big-wide-bold";
+	src: url(../fonts/BurbankBigWide-Bold.otf);
+}
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+.font-1 {
+	font-family:"neutraface-text-book";
+	font-size:12px;
+	line-height:17px;
+}
+.font-1a {
+	font-family:"neutraface-text-book";
+	font-size:12px;
+}
+.font-2 {
+	font-family:"neutraface-text-book";
+	font-size:15px;
+	line-height:17px;
+}
+.font-2a {
+	font-family:"neutraface-text-book";
+	font-size:17px;
+}
+.font-3 {
+	font-family:"arial-regular";
+	font-size:11px;
+	line-height:17px;
+}
+.font-3a {
+	font-family:"arial-regular";
+	font-size:12px;
+}
+.font-4 {
+	font-family:"avenir-next-lt-pro-medium";
+	font-size:9px;
+	line-height:17px;
+}
+.font-4a {
+	font-family:"avenir-next-lt-pro-medium";
+	font-size:12px;
+}
+.font-5 {
+	font-family:"neutraface-text-book";
+	font-size:14px;
+	line-height:17px;
+}
+.font-5a {
+	font-family:"neutraface-text-bold";
+	font-size:16px;
+}
+.font-6 {
+	font-family:"neutraface-text-bold";
+	font-size:16px;
+	line-height:21px;
+}
+.font-6a {
+	font-family:"burbank-big-wide-bold";
+	font-size:22px;
+}
+.font-7 {
+	font-family:"burbank-big-wide-bold";
+	font-size:5px;
+}
+.font-7a {
+	font-family:"neutraface-text-bold";
+	font-size:23px;
+	margin-bottom:0 !important;
+}
+.font-8 {
+	font-family:"neutraface-text-book";
+	font-size:18px;
+}
+.font-8a {
+	font-family:"neutraface-text-book";
+	font-size:20px;
+}
+.font-8b {
+	font-family:"neutraface-text-book";
+	font-size:20px;
+	color:#000;
+}
+.font-8c {
+	font-family:"neutraface-text-book";
+	font-size:20px;
+	color:#000;
+}
+.font-8d {
+	font-family:"neutraface-text-book";
+	font-size:20px;
+	color:#fff;
+	margin-top:-0.50em !important;
+}
+.font-9 {
+	font-family:"neutraface-text-book";
+	font-size:20px;
+}
+.font-9a {
+	font-family:"neutraface-text-bold";
+	font-size:24px;
+	margin-bottom:normal !important;
+}
+.font-9b {
+	font-family:"neutraface-text-bold";
+	font-size:20px;
+	color:#ED617F;
+}
+.font-9c {
+	font-family:"neutraface-text-bold";
+	font-size:28px;
+	color:#5DB7B0;
+}
+.font-10 {
+	font-family:"neutraface-text-bold";
+	font-size:27px;
+}
+.font-10a {
+	font-family:"neutraface-text-bold";
+	font-size:20px;
+}
+.font-11 {
+	font-family:"neutraface-text-bold";
+	font-size:20px;
+}
+.font-11a {
+	font-family:"neutraface-text-bold";
+	font-size:40px;
+}
+.font-12 {
+	font-family:"neutraface-text-bold";
+	font-size:36px;
+}
+.font-12a {
+	font-family:"burbank-big-wide-bold";
+	font-size:18px;
+	margin-bottom:normal !important;
+}
+.font-13 {
+	font-family:"burbank-big-wide-bold";
+	font-size:17px;
+}
+.font-13a {
+	font-family:"burbank-big-wide-bold";
+	font-size:15px;
+	margin-bottom:0 !important;
+}
+.font-14 {
+	font-family:"neutraface-text-bold";
+	font-size:23px;
+}
+.font-14a {
+	font-family:"neutraface-text-bold-italic";
+	font-size:22px;
+}
+.font-15 {
+	font-family:"neutraface-text-bold-italic";
+	font-size:23px;
+}
+.font-15a {
+	font-family:"neutraface-text-book-italic";
+	font-size:20px;
+}
+.font-16 {
+	font-family:"neutraface-text-book-italic";
+	font-size:20px;
+}
+.font-16a {
+	font-family:"neutraface-text-bold";
+	font-size:32px;
+	color:#ED617F;
+	margin-bottom:normal !important;
+}
+.font-16b {
+	font-family:"neutraface-text-bold";
+	font-size:32px;
+	color:#000;
+	margin-bottom:normal !important;
+}
+.font-17 {
+	font-family:"neutraface-text-bold";
+	font-size:33px;
+}
+.font-17a {
+	font-family:"neutraface-text-bold";
+	font-size:28px;
+	margin-bottom:normal !important;
+}
+.font-17b {
+	font-family:"neutraface-text-bold";
+	font-size:28px;
+	color:#712587;
+	margin-bottom:0 !important;
+}
+.font-17c {
+	font-family:"neutraface-text-bold";
+	font-size:28px;
+	color:#00569b;
+	margin-bottom:0 !important;
+}
+.font-17d {
+	font-family:"neutraface-text-bold";
+	font-size:28px;
+	color:#6293bc;
+	margin-bottom:0 !important;
+}
+.font-17e {
+	font-family:"neutraface-text-bold";
+	font-size:28px;
+	color:#1d9d4a;
+	margin-bottom:0 !important;
+}
+.font-17f {
+	font-family:"neutraface-text-bold";
+	font-size:28px;
+	color:#c92f31;
+	margin-bottom:0 !important;
+}
+.font-18 {
+	font-family:"neutraface-text-bold";
+	font-size:24px;
+}
+.font-19 {
+	font-family:"neutraface-text-bold";
+	font-size:39px;
+	line-height:39px;
+}
+.font-19a {
+	font-family:"neutraface-text-bold";
+	font-size:39px;
+}
+.font-19b {
+	font-family:"neutraface-text-bold-italic";
+	font-size:30px;
+}
+.font-20 {
+	font-family:"neutraface-text-bold-italic";
+	font-size:27px;
+	line-height:36px;
+}
+.font-21 {
+	font-family:"neutraface-text-book";
+	font-size:20px;
+	line-height:36px;
+}
+.font-21a {
+	font-family:"neutraface-text-book";
+	font-size:20px;
+}
+.font-22 {
+	font-family:"neutraface-text-book";
+	font-size:20px;
+	line-height:32px;
+}
+.font-22a {
+	font-family:"neutraface-text-bold-italic";
+	font-size:36px;
+}
+.font-23 {
+	font-family:"neutraface-text-bold-italic";
+	font-size:33px;
+	line-height:32px;
+}
+.font-23a {
+	font-family:"neutraface-text-bold-italic";
+	font-size:33px;
+}
+.font-24 {
+	font-family:"neutraface-text-book";
+	font-size:20px;
+	line-height:39px;
+}
+.font-24a {
+	font-family:"neutraface-text-bold-italic";
+	font-size:42px;
+}
+.font-25 {
+	font-family:"neutraface-text-bold-italic";
+	font-size:39px;
+	line-height:39px;
+}
+.font-26 {
+	font-family:"neutraface-text-book";
+	font-size:21px;
+}
+.font-27 {
+	font-family:"burbank-big-wide-bold";
+	font-size:20px;
+	line-height:23px;
+}
+.font-27a {
+	font-family:"burbank-big-wide-bold";
+	font-size:18px;
+}
+.font-28 {
+	font-family:"burbank-big-wide-bold";
+	font-size:17px;
+	line-height:23px;
+}
+.font-28a {
+	font-family:"burbank-big-wide-bold";
+	font-size:17px;
+}
+.font-29 {
+	font-family:"neutraface-text-book";
+	font-size:20px;
+	line-height:23px;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:738px; height:944px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:944px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:944px; position:relative; background-size:100% 100% !important; left:25%; }
+img.hiddenimage { display:none;}
+img.hiddenimage.media-overlay-active {display:block !important;}
+.media-overlay-active span { color: #f00 !important; } /* used for period to highlight */
+/*span { color:#f6f !important; }*/
+.m1{margin-top:-0.25em !important;}
+.m2{margin-top:0.50em !important;}
+.m3{margin-top:-1.0em !important;}
+.m4{margin-top:0.35em !important;}
+.m4a{margin-top:0.55em !important;}

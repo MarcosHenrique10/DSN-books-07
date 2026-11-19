@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id336g">
+			<!--  -->
+			<text src="../027.xhtml#empty"/>
+			<audio clipBegin="189755ms" clipEnd="190270ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id336">
+			<!-- Elastigirl -->
+			<text src="../027.xhtml#w336"/>
+			<audio clipBegin="190270ms" clipEnd="190960ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id337">
+			<!-- tries -->
+			<text src="../027.xhtml#w337"/>
+			<audio clipBegin="190960ms" clipEnd="191370ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id338">
+			<!-- to -->
+			<text src="../027.xhtml#w338"/>
+			<audio clipBegin="191370ms" clipEnd="191450ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id339">
+			<!-- break -->
+			<text src="../027.xhtml#w339"/>
+			<audio clipBegin="191450ms" clipEnd="191850ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id340">
+			<!-- free -->
+			<text src="../027.xhtml#w340"/>
+			<audio clipBegin="191850ms" clipEnd="192450ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id341">
+			<!-- but -->
+			<text src="../027.xhtml#w341"/>
+			<audio clipBegin="192450ms" clipEnd="192600ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id342">
+			<!-- she -->
+			<text src="../027.xhtml#w342"/>
+			<audio clipBegin="192600ms" clipEnd="192750ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id343">
+			<!-- cannot -->
+			<text src="../027.xhtml#w343"/>
+			<audio clipBegin="192750ms" clipEnd="193160ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id344">
+			<!-- move -->
+			<text src="../027.xhtml#w344"/>
+			<audio clipBegin="193160ms" clipEnd="193840ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id344g">
+			<!--  -->
+			<text src="../027.xhtml#empty1"/>
+			<audio clipBegin="193840ms" clipEnd="194845ms" src="../audio/9781368020800.m4a"/>
+		</par>
+	</body>
+</smil>

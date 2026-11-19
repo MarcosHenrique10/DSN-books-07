@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id345g">
+			<!--  -->
+			<text src="../028.xhtml#empty"/>
+			<audio clipBegin="194845ms" clipEnd="195850ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id345">
+			<!-- Meanwhile -->
+			<text src="../028.xhtml#w345"/>
+			<audio clipBegin="195850ms" clipEnd="196800ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id346">
+			<!-- Winston's -->
+			<text src="../028.xhtml#w346"/>
+			<audio clipBegin="196800ms" clipEnd="197400ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id347">
+			<!-- plan -->
+			<text src="../028.xhtml#w347"/>
+			<audio clipBegin="197400ms" clipEnd="197810ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id348">
+			<!-- is -->
+			<text src="../028.xhtml#w348"/>
+			<audio clipBegin="197810ms" clipEnd="198040ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id349">
+			<!-- working -->
+			<text src="../028.xhtml#w349"/>
+			<audio clipBegin="198040ms" clipEnd="199110ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id350">
+			<!-- World -->
+			<text src="../028.xhtml#w350"/>
+			<audio clipBegin="199110ms" clipEnd="199520ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id351">
+			<!-- leaders -->
+			<text src="../028.xhtml#w351"/>
+			<audio clipBegin="199520ms" clipEnd="200040ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id352">
+			<!-- make -->
+			<text src="../028.xhtml#w352"/>
+			<audio clipBegin="200040ms" clipEnd="200280ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id353">
+			<!-- Supers -->
+			<text src="../028.xhtml#w353"/>
+			<audio clipBegin="200280ms" clipEnd="201000ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id354">
+			<!-- legal -->
+			<text src="../028.xhtml#w354"/>
+			<audio clipBegin="201000ms" clipEnd="201520ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id355">
+			<!-- again -->
+			<text src="../028.xhtml#w355"/>
+			<audio clipBegin="201520ms" clipEnd="201920ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id355g">
+			<!--  -->
+			<text src="../028.xhtml#empty1"/>
+			<audio clipBegin="201920ms" clipEnd="202430ms" src="../audio/9781368020800.m4a"/>
+		</par>
+	</body>
+</smil>

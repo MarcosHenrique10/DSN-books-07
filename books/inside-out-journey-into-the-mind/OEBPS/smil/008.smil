@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id108g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="82297ms" clipEnd="83282ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id108">
+      <!-- Core -->
+      <text src="../008.xhtml#w108"/>
+      <audio clipBegin="83282ms" clipEnd="83662ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id109">
+      <!-- memories -->
+      <text src="../008.xhtml#w109"/>
+      <audio clipBegin="83662ms" clipEnd="84272ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id110">
+      <!-- power -->
+      <text src="../008.xhtml#w110"/>
+      <audio clipBegin="84272ms" clipEnd="84832ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id111">
+      <!-- Riley's -->
+      <text src="../008.xhtml#w111"/>
+      <audio clipBegin="84832ms" clipEnd="85482ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id112">
+      <!-- Islands -->
+      <text src="../008.xhtml#w112"/>
+      <audio clipBegin="85482ms" clipEnd="85992ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id113">
+      <!-- of -->
+      <text src="../008.xhtml#w113"/>
+      <audio clipBegin="85992ms" clipEnd="86142ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id114">
+      <!-- Personality -->
+      <text src="../008.xhtml#w114"/>
+      <audio clipBegin="86142ms" clipEnd="87992ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id115">
+      <!-- There -->
+      <text src="../008.xhtml#w115"/>
+      <audio clipBegin="87992ms" clipEnd="88162ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id116">
+      <!-- is -->
+      <text src="../008.xhtml#w116"/>
+      <audio clipBegin="88162ms" clipEnd="88392ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id117">
+      <!-- Family -->
+      <text src="../008.xhtml#w117"/>
+      <audio clipBegin="88392ms" clipEnd="88822ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id118">
+      <!-- Island -->
+      <text src="../008.xhtml#w118"/>
+      <audio clipBegin="88822ms" clipEnd="90062ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id119">
+      <!-- Honesty -->
+      <text src="../008.xhtml#w119"/>
+      <audio clipBegin="90062ms" clipEnd="90562ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id120">
+      <!-- Island -->
+      <text src="../008.xhtml#w120"/>
+      <audio clipBegin="90562ms" clipEnd="91662ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id121">
+      <!-- and -->
+      <text src="../008.xhtml#w121"/>
+      <audio clipBegin="91662ms" clipEnd="91812ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id122">
+      <!-- Hockey -->
+      <text src="../008.xhtml#w122"/>
+      <audio clipBegin="91812ms" clipEnd="92412ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id123">
+      <!-- Island -->
+      <text src="../008.xhtml#w123"/>
+      <audio clipBegin="92412ms" clipEnd="92922ms" src="../audio/9781484719176.m4a"/>
+    </par>
+    <par id="id123g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="92922ms" clipEnd="93702ms" src="../audio/9781484719176.m4a"/>
+    </par>
+  </body>
+</smil>

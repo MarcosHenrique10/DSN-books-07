@@ -1,0 +1,200 @@
+img{z-index:-1;}body {
+	width: 765px;
+	height: 979px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 979px;
+}
+
+@font-face {
+	font-family:"Arial";
+	src: url(../fonts/Arial.ttf);
+}
+@font-face {
+	font-family:"BerlinerGroteskLight";
+	src: url(../fonts/BerlinerGroteskLight.ttf);
+}
+
+@font-face {
+	font-family:"BerlinerGroteskMedium";
+	src: url(../fonts/BerlinerGroteskMedium.ttf);
+}
+
+@font-face {
+	font-family:"TimesNewRoman";
+	src: url(../fonts/TimesNewRoman.ttf);
+}
+
+
+
+
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}p.nonindent{
+	font-size: 15px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.indent{
+	font-size: 20px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 48px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"BerlinerGroteskLight";
+    word-spacing: 1px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 684px;
+	left: 110px;
+	right: 0px;
+width: 551px;height: 160px;}
+div.page5_item1{
+	position: absolute;
+	top: 48px;
+	left: 57px;
+	right: 0px;
+width: 684px;height: 290px;}
+div.page7_item1{
+	position: absolute;
+	top: 735px;
+	left: 54px;
+	right: 0px;
+width: 663px;height: 201px;}
+div.page8_item1{
+	position: absolute;
+	top: 805px;
+	left: 131px;
+	right: 0px;
+width: 515px;height: 86px;}
+div.page9_item1{
+	position: absolute;
+	top: 49px;
+	left: 70px;
+	right: 0px;
+width: 656px;height: 321px;}
+div.page10_item1{
+	position: absolute;
+	top: 52px;
+	left: 52px;
+	right: 0px;
+width: 669px;height: 266px;}
+div.page13_item1{
+	position: absolute;
+	top: 56px;
+	left: 55px;
+	right: 0px;
+width: 653px;height: 183px;}
+div.page14_item1{
+	position: absolute;
+	top: 758px;
+	left: 57px;
+	right: 0px;
+width: 653px;height: 171px;}
+div.page17_item1{
+	position: absolute;
+	top: 51px;
+	left: 53px;
+	right: 0px;
+width: 683px;height: 194px;}
+div.page18_item1{
+	position: absolute;
+	top: 847px;
+	left: 56px;
+	right: 0px;
+width: 667px;height: 89px;}
+div.page19_item1{
+	position: absolute;
+	top: 50px;
+	left: 56px;
+	right: 0px;
+width: 658px;height: 145px;}
+div.page20_item1{
+	position: absolute;
+	top: 49px;
+	left: 51px;
+	right: 0px;
+width: 658px;height: 123px;}
+div.page21_item1{
+	position: absolute;
+	top: 49px;
+	left: 58px;
+	right: 0px;
+width: 650px;height: 122px;}
+div.page22_item1{
+	position: absolute;
+	top: 850px;
+	left: 54px;
+	right: 0px;
+width: 659px;height: 89px;}
+p.copyright{
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 22px;
+	font-family:"TimesNewRoman";
+   color: #FFFFFF;
+}
+span.arialp{
+	font-family:"Arial";
+}
+span.italicw{
+-moz-transform:skewx(-10deg);
+-o-transform: skewx(-10deg);
+-webkit-transform:skewx(-10deg);
+transform: skewx(-10deg);
+display: inline-block;
+margin-left: -40px;
+}
+p.indent1{
+	font-size: 20px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 48px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"BerlinerGroteskLight";
+    word-spacing: 0px;
+}
+.media-overlay-active { color:#f00 !important; }
+
+.media-overlay-active span.font1
+{ color:#f00 !important; }

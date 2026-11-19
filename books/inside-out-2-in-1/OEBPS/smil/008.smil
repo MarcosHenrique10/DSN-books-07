@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id163g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="110710ms" clipEnd="111513ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id163">
+      <!-- But -->
+      <text src="../008.xhtml#w163"/>
+      <audio clipBegin="111513ms" clipEnd="111723ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id164">
+      <!-- the -->
+      <text src="../008.xhtml#w164"/>
+      <audio clipBegin="111723ms" clipEnd="111803ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id165">
+      <!-- twisty -->
+      <text src="../008.xhtml#w165"/>
+      <audio clipBegin="111803ms" clipEnd="112383ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id166">
+      <!-- tree -->
+      <text src="../008.xhtml#w166"/>
+      <audio clipBegin="112383ms" clipEnd="112743ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id167">
+      <!-- memory -->
+      <text src="../008.xhtml#w167"/>
+      <audio clipBegin="112743ms" clipEnd="113373ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id168">
+      <!-- is -->
+      <text src="../008.xhtml#w168"/>
+      <audio clipBegin="113373ms" clipEnd="113573ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id169">
+      <!-- Joy's -->
+      <text src="../008.xhtml#w169"/>
+      <audio clipBegin="113573ms" clipEnd="114123ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id170">
+      <!-- favorite -->
+      <text src="../008.xhtml#w170"/>
+      <audio clipBegin="114123ms" clipEnd="114873ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id170g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="114873ms" clipEnd="115478ms" src="../audio/9781484750216.m4a"/>
+    </par>
+  </body>
+</smil>

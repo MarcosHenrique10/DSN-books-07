@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="8395ms" src="../audio/9781484752135.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- The -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="8395ms" clipEnd="8545ms" src="../audio/9781484752135.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Desert -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="8545ms" clipEnd="9185ms" src="../audio/9781484752135.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Race -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="9185ms" clipEnd="9865ms" src="../audio/9781484752135.m4a"/>
+    </par>
+    <par id="id3g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="9865ms" clipEnd="10133ms" src="../audio/9781484752135.m4a"/>
+    </par>
+  </body>
+</smil>

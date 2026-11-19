@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="0ms" clipEnd="3296ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- THE -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="3296ms" clipEnd="3666ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- INCREDIBLE -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="3666ms" clipEnd="4426ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- ELASTIGIRL -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="4426ms" clipEnd="6321ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- by -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="6321ms" clipEnd="6471ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Natasha -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="6471ms" clipEnd="7041ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Bouchard -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="7041ms" clipEnd="9745ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- illustrated -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="9745ms" clipEnd="10425ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- by -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="10425ms" clipEnd="10575ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- the -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="10575ms" clipEnd="10675ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Disney -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="10675ms" clipEnd="11145ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="11145ms" clipEnd="11655ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Art -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="11655ms" clipEnd="11885ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Team -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="11885ms" clipEnd="12135ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id13g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="12135ms" clipEnd="13198ms" src="../audio/9781368020800.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id316g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="206283ms" clipEnd="206903ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id316">
+      <!-- Don't -->
+      <text src="../019.xhtml#w316"/>
+      <audio clipBegin="206903ms" clipEnd="207263ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id317">
+      <!-- touch -->
+      <text src="../019.xhtml#w317"/>
+      <audio clipBegin="207263ms" clipEnd="207583ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id318">
+      <!-- anything -->
+      <text src="../019.xhtml#w318"/>
+      <audio clipBegin="207583ms" clipEnd="208173ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id319">
+      <!-- Sadness -->
+      <text src="../019.xhtml#w319"/>
+      <audio clipBegin="208173ms" clipEnd="209343ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id320">
+      <!-- Joy -->
+      <text src="../019.xhtml#w320"/>
+      <audio clipBegin="209343ms" clipEnd="209623ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id321">
+      <!-- called -->
+      <text src="../019.xhtml#w321"/>
+      <audio clipBegin="209623ms" clipEnd="210983ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id322">
+      <!-- Atta -->
+      <text src="../019.xhtml#w322"/>
+      <audio clipBegin="210983ms" clipEnd="211233ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id323">
+      <!-- girl -->
+      <text src="../019.xhtml#w323"/>
+      <audio clipBegin="211233ms" clipEnd="211773ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id323g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="211773ms" clipEnd="212998ms" src="../audio/9781484750216.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,351 @@
+img{z-index:-1;}
+
+body {
+	width: 814px;
+	height: 1221px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 814px;
+	height: 1221px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+span.arial{
+font-family:"Arial";
+}
+p.crt0{
+	font-size: 18px;
+	line-height: 23px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOldStyleStdRegular";
+}
+p.crt{
+	font-size: 18px;
+	line-height: 23px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 1.2em;
+	margin-bottom: 0px;
+	font-family:"CenturyOldStyleStdRegular";
+}
+p.author{
+	font-size: 32px;
+	line-height: 50px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOldStyleStdRegular";
+}
+p.pub{
+	font-size: 18px;
+	line-height: 22px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOldStyleStdRegular";
+}
+p.nonindent{
+	font-size: 34px;
+	line-height: 62px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:2px;
+	font-family:"CenturyOldStyleStdRegular";
+}
+p.back_head{
+	font-size: 38px;
+	line-height: 43px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: .1em;
+	font-family:"NeutrafaceTextBold";
+}
+p.back_nonindent{
+	font-size: 25px;
+	line-height: 29px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+	font-family:"NeutrafaceTextBook";
+}
+p.back_subhead{
+	font-size: 29px;
+	line-height: 34px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0em;
+	font-family:"NeutrafaceTextBold";
+}
+p.back_hang{
+	font-size: 21px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: -.5em;
+	margin-left:.5em;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"NeutrafaceTextBook";
+}
+.white{color:#ffffff;}
+
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 864px;
+	left: 85px;
+	right: 0px;
+width: 645px;height: 191px;}
+div.page3_item1{
+	position: absolute;
+	top: 877px;
+	left: 85px;
+	right: 0px;
+width: 644px;height: 89px;}
+div.page3_item2{
+	position: absolute;
+	top: 1068px;
+	left: 311px;
+	right: 0px;
+width: 229px;height: 36px;}
+div.page4_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 486px;height: 427px;}
+div.page5_item1{
+	position: absolute;
+	top: 667px;
+	left: 115px;
+	right: 0px;
+width: 347px;height: 232px;}
+div.page6_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 482px;height: 245px;}
+div.page7_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 453px;height: 234px;}
+div.page8_item1{
+	position: absolute;
+	top: 148px;
+	left: 115px;
+	right: 0px;
+width: 424px;height: 296px;}
+div.page10_item1{
+	position: absolute;
+	top: 85px;
+	left: 115px;
+	right: 0px;
+width: 536px;height: 289px;}
+div.page11_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 392px;height: 302px;}
+div.page13_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 510px;height: 229px;}
+div.page14_item1{
+	position: absolute;
+	top: 915px;
+	left: 115px;
+	right: 0px;
+width: 510px;height: 131px;}
+div.page15_item1{
+	position: absolute;
+	top: 915px;
+	left: 115px;
+	right: 0px;
+width: 539px;height: 165px;}
+div.page16_item1{
+	position: absolute;
+	top: 792px;
+	left: 115px;
+	right: 0px;
+width: 430px;height: 127px;}
+div.page17_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 396px;height: 243px;}
+div.page18_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 399px;height: 308px;}
+div.page19_item1{
+	position: absolute;
+	top: 915px;
+	left: 115px;
+	right: 0px;
+width: 536px;height: 134px;}
+div.page20_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 469px;height: 305px;}
+div.page22_item1{
+	position: absolute;
+	top: 791px;
+	left: 115px;
+	right: 0px;
+width: 525px;height: 132px;}
+div.page24_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 446px;height: 301px;}
+div.page25_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 462px;height: 317px;}
+div.page26_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 304px;height: 109px;}
+div.page27_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 330px;height: 170px;}
+div.page28_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 396px;height: 297px;}
+div.page29_item1{
+	position: absolute;
+	top: 790px;
+	left: 114px;
+	right: 0px;
+width: 426px;height: 123px;}
+div.page30_item1{
+	position: absolute;
+	top: 83px;
+	left: 115px;
+	right: 0px;
+width: 544px;height: 365px;}
+div.page31_item1{
+	position: absolute;
+	top: 854px;
+	left: 115px;
+	right: 0px;
+width: 406px;height: 203px;}
+div.page32_item1{
+	position: absolute;
+	top: 915px;
+	left: 115px;
+	right: 0px;
+width: 470px;height: 157px;}
+div.page34_item1{
+	position: absolute;
+	top: 478px;
+	left: 45px;
+	right: 0px;
+width: 719px;height: 136px;}
+div.page34_item2{
+	position: absolute;
+	top: 665px;
+	left: 170px;
+	right: 0px;
+width: 596px;height: 62px;}
+div.page34_item3{
+	position: absolute;
+	top: 758px;
+	left: 170px;
+	right: 0px;
+width: 602px;height: 84px;}
+div.page34_item4{
+	position: absolute;
+	top: 863px;
+	left: 170px;
+	right: 0px;
+width: 575px;height: 39px;}
+div.page34_item5{
+	position: absolute;
+	top: 964px;
+	left: 170px;
+	right: 0px;
+width: 614px;height: 80px;}
+
+@font-face{
+font-family:"Arial";
+src: url(../fonts/Arial.ttf);
+}
+@font-face{
+font-family:"CenturyOldStyleStdRegular";
+src: url(../fonts/CenturyOldStyleStdRegular.otf);
+}
+@font-face{
+font-family:"NeutrafaceTextBold";
+src: url(../fonts/NeutrafaceTextBold.otf);
+}
+@font-face{
+font-family:"NeutrafaceTextBook";
+src: url(../fonts/NeutrafaceTextBook.otf);
+}
+.media-overlay-active {
+color:#f00 !important;
+}

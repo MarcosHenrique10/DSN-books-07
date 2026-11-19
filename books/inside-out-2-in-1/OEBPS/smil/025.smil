@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id402g">
+      <!--  -->
+      <text src="../025.xhtml#empty"/>
+      <audio clipBegin="256212ms" clipEnd="256493ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id402">
+      <!-- Riley's -->
+      <text src="../025.xhtml#w402"/>
+      <audio clipBegin="256493ms" clipEnd="257013ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id403">
+      <!-- hockey -->
+      <text src="../025.xhtml#w403"/>
+      <audio clipBegin="257013ms" clipEnd="257453ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id404">
+      <!-- team -->
+      <text src="../025.xhtml#w404"/>
+      <audio clipBegin="257453ms" clipEnd="258123ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id405">
+      <!-- the -->
+      <text src="../025.xhtml#w405"/>
+      <audio clipBegin="258123ms" clipEnd="258253ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id406">
+      <!-- Prairie -->
+      <text src="../025.xhtml#w406"/>
+      <audio clipBegin="258253ms" clipEnd="258743ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id407">
+      <!-- Dogs -->
+      <text src="../025.xhtml#w407"/>
+      <audio clipBegin="258743ms" clipEnd="259573ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id408">
+      <!-- had -->
+      <text src="../025.xhtml#w408"/>
+      <audio clipBegin="259573ms" clipEnd="259693ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id409">
+      <!-- lost -->
+      <text src="../025.xhtml#w409"/>
+      <audio clipBegin="259693ms" clipEnd="260243ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id410">
+      <!-- the -->
+      <text src="../025.xhtml#w410"/>
+      <audio clipBegin="260243ms" clipEnd="260363ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id411">
+      <!-- big -->
+      <text src="../025.xhtml#w411"/>
+      <audio clipBegin="260363ms" clipEnd="260873ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id412">
+      <!-- playoff -->
+      <text src="../025.xhtml#w412"/>
+      <audio clipBegin="260873ms" clipEnd="261443ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id413">
+      <!-- game -->
+      <text src="../025.xhtml#w413"/>
+      <audio clipBegin="261443ms" clipEnd="262813ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id414">
+      <!-- Riley -->
+      <text src="../025.xhtml#w414"/>
+      <audio clipBegin="262813ms" clipEnd="263233ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id415">
+      <!-- had -->
+      <text src="../025.xhtml#w415"/>
+      <audio clipBegin="263233ms" clipEnd="263453ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id416">
+      <!-- missed -->
+      <text src="../025.xhtml#w416"/>
+      <audio clipBegin="263453ms" clipEnd="263943ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id417">
+      <!-- the -->
+      <text src="../025.xhtml#w417"/>
+      <audio clipBegin="263943ms" clipEnd="264053ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id418">
+      <!-- winning -->
+      <text src="../025.xhtml#w418"/>
+      <audio clipBegin="264053ms" clipEnd="264493ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id419">
+      <!-- shot -->
+      <text src="../025.xhtml#w419"/>
+      <audio clipBegin="264493ms" clipEnd="266113ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id420">
+      <!-- She -->
+      <text src="../025.xhtml#w420"/>
+      <audio clipBegin="266113ms" clipEnd="266363ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id421">
+      <!-- felt -->
+      <text src="../025.xhtml#w421"/>
+      <audio clipBegin="266363ms" clipEnd="266973ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id422">
+      <!-- awful -->
+      <text src="../025.xhtml#w422"/>
+      <audio clipBegin="266973ms" clipEnd="268383ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id423">
+      <!-- She -->
+      <text src="../025.xhtml#w423"/>
+      <audio clipBegin="268383ms" clipEnd="268593ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id424">
+      <!-- wanted -->
+      <text src="../025.xhtml#w424"/>
+      <audio clipBegin="268593ms" clipEnd="269013ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id425">
+      <!-- to -->
+      <text src="../025.xhtml#w425"/>
+      <audio clipBegin="269013ms" clipEnd="269093ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id426">
+      <!-- quit -->
+      <text src="../025.xhtml#w426"/>
+      <audio clipBegin="269093ms" clipEnd="269633ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id427">
+      <!-- the -->
+      <text src="../025.xhtml#w427"/>
+      <audio clipBegin="269633ms" clipEnd="269703ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id428">
+      <!-- team -->
+      <text src="../025.xhtml#w428"/>
+      <audio clipBegin="269703ms" clipEnd="270263ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id428g">
+      <!--  -->
+      <text src="../025.xhtml#empty"/>
+      <audio clipBegin="270263ms" clipEnd="271257ms" src="../audio/9781484750216.m4a"/>
+    </par>
+  </body>
+</smil>

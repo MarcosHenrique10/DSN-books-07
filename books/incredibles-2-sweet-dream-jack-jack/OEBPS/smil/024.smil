@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id292g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="161836ms" clipEnd="162831ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id292">
+			<!-- They -->
+			<text src="../024.xhtml#w292"/>
+			<audio clipBegin="162831ms" clipEnd="162951ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id293">
+			<!-- snuggled -->
+			<text src="../024.xhtml#w293"/>
+			<audio clipBegin="162951ms" clipEnd="163481ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id294">
+			<!-- up -->
+			<text src="../024.xhtml#w294"/>
+			<audio clipBegin="163481ms" clipEnd="163641ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id295">
+			<!-- on -->
+			<text src="../024.xhtml#w295"/>
+			<audio clipBegin="163641ms" clipEnd="163801ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id296">
+			<!-- the -->
+			<text src="../024.xhtml#w296"/>
+			<audio clipBegin="163801ms" clipEnd="163871ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id297">
+			<!-- sofa -->
+			<text src="../024.xhtml#w297"/>
+			<audio clipBegin="163871ms" clipEnd="165011ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id298">
+			<!-- Soon -->
+			<text src="../024.xhtml#w298"/>
+			<audio clipBegin="165011ms" clipEnd="165731ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id299">
+			<!-- Mr -->
+			<text src="../024.xhtml#w299"/>
+			<audio clipBegin="165731ms" clipEnd="166221ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id300">
+			<!-- Incredible -->
+			<text src="../024.xhtml#w300"/>
+			<audio clipBegin="166221ms" clipEnd="167261ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id301">
+			<!-- was -->
+			<text src="../024.xhtml#w301"/>
+			<audio clipBegin="167261ms" clipEnd="167691ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id302">
+			<!-- fast -->
+			<text src="../024.xhtml#w302"/>
+			<audio clipBegin="167691ms" clipEnd="168481ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id303">
+			<!-- asleep -->
+			<text src="../024.xhtml#w303"/>
+			<audio clipBegin="168481ms" clipEnd="169151ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id303g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="169151ms" clipEnd="169651ms" src="../audio/9781368017183.m4a"/>
+		</par>
+	</body>
+</smil>

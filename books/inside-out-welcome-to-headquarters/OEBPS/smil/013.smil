@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id142g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="101320ms" clipEnd="101965ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id142">
+      <!-- There -->
+      <text src="../013.xhtml#w142"/>
+      <audio clipBegin="101965ms" clipEnd="102135ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id143">
+      <!-- is -->
+      <text src="../013.xhtml#w143"/>
+      <audio clipBegin="102135ms" clipEnd="102355ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id144">
+      <!-- Family -->
+      <text src="../013.xhtml#w144"/>
+      <audio clipBegin="102355ms" clipEnd="102865ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id145">
+      <!-- Island -->
+      <text src="../013.xhtml#w145"/>
+      <audio clipBegin="102865ms" clipEnd="104035ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id146">
+      <!-- Honesty -->
+      <text src="../013.xhtml#w146"/>
+      <audio clipBegin="104035ms" clipEnd="104595ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id147">
+      <!-- Island -->
+      <text src="../013.xhtml#w147"/>
+      <audio clipBegin="104595ms" clipEnd="105875ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id148">
+      <!-- Hockey -->
+      <text src="../013.xhtml#w148"/>
+      <audio clipBegin="105875ms" clipEnd="106375ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id149">
+      <!-- Island -->
+      <text src="../013.xhtml#w149"/>
+      <audio clipBegin="106375ms" clipEnd="107615ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id150">
+      <!-- Friendship -->
+      <text src="../013.xhtml#w150"/>
+      <audio clipBegin="107615ms" clipEnd="108255ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id151">
+      <!-- Island -->
+      <text src="../013.xhtml#w151"/>
+      <audio clipBegin="108255ms" clipEnd="109465ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id152">
+      <!-- and -->
+      <text src="../013.xhtml#w152"/>
+      <audio clipBegin="109465ms" clipEnd="109695ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id153">
+      <!-- Goofball -->
+      <text src="../013.xhtml#w153"/>
+      <audio clipBegin="109695ms" clipEnd="110495ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id154">
+      <!-- Island -->
+      <text src="../013.xhtml#w154"/>
+      <audio clipBegin="110495ms" clipEnd="111065ms" src="../audio/9781484719169.m4a"/>
+    </par>
+    <par id="id154g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="111065ms" clipEnd="112028ms" src="../audio/9781484719169.m4a"/>
+    </par>
+  </body>
+</smil>

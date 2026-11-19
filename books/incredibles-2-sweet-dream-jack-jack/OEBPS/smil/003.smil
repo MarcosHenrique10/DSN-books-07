@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="0ms" clipEnd="5435ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Written -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="5435ms" clipEnd="5755ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- by -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="5755ms" clipEnd="5945ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Meredith -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="5945ms" clipEnd="6395ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Rusu -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="6395ms" clipEnd="7015ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="7015ms" clipEnd="7835ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- by -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="7835ms" clipEnd="7975ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Gurihiru -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="7975ms" clipEnd="11653ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id7g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="11653ms" clipEnd="11945ms" src="../audio/9781368017183.m4a"/>
+		</par>
+	</body>
+</smil>

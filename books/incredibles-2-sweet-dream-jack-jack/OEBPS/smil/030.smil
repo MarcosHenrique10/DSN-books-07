@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id395g">
+			<!--  -->
+			<text src="../030.xhtml#empty"/>
+			<audio clipBegin="209116ms" clipEnd="210121ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id395">
+			<!-- He -->
+			<text src="../030.xhtml#w395"/>
+			<audio clipBegin="210121ms" clipEnd="210351ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id396">
+			<!-- fended -->
+			<text src="../030.xhtml#w396"/>
+			<audio clipBegin="210351ms" clipEnd="210691ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id397">
+			<!-- off -->
+			<text src="../030.xhtml#w397"/>
+			<audio clipBegin="210691ms" clipEnd="210911ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id398">
+			<!-- the -->
+			<text src="../030.xhtml#w398"/>
+			<audio clipBegin="210911ms" clipEnd="210981ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id399">
+			<!-- raccoon -->
+			<text src="../030.xhtml#w399"/>
+			<audio clipBegin="210981ms" clipEnd="212141ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id400">
+			<!-- The -->
+			<text src="../030.xhtml#w400"/>
+			<audio clipBegin="212141ms" clipEnd="212221ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id401">
+			<!-- raccoon -->
+			<text src="../030.xhtml#w401"/>
+			<audio clipBegin="212221ms" clipEnd="212951ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id402">
+			<!-- fought -->
+			<text src="../030.xhtml#w402"/>
+			<audio clipBegin="212951ms" clipEnd="213351ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id403">
+			<!-- back -->
+			<text src="../030.xhtml#w403"/>
+			<audio clipBegin="213351ms" clipEnd="213771ms" src="../audio/9781368017183.m4a"/>
+		</par>
+		<par id="id403g">
+			<!--  -->
+			<text src="../030.xhtml#empty"/>
+			<audio clipBegin="213771ms" clipEnd="214276ms" src="../audio/9781368017183.m4a"/>
+		</par>
+	</body>
+</smil>

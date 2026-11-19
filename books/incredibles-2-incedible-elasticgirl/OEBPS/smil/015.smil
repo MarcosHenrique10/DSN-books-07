@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id190g">
+			<!--  -->
+			<text src="../015.xhtml#empty"/>
+			<audio clipBegin="102685ms" clipEnd="103200ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id190">
+			<!-- Mr -->
+			<text src="../015.xhtml#w190"/>
+			<audio clipBegin="103200ms" clipEnd="103560ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id191">
+			<!-- Incredible -->
+			<text src="../015.xhtml#w191"/>
+			<audio clipBegin="103560ms" clipEnd="104320ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- will -->
+			<text src="../015.xhtml#w192"/>
+			<audio clipBegin="104320ms" clipEnd="104460ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- stay -->
+			<text src="../015.xhtml#w193"/>
+			<audio clipBegin="104460ms" clipEnd="104780ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- home -->
+			<text src="../015.xhtml#w194"/>
+			<audio clipBegin="104780ms" clipEnd="104980ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id195">
+			<!-- with -->
+			<text src="../015.xhtml#w195"/>
+			<audio clipBegin="104980ms" clipEnd="105600ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- Jack -->
+			<text src="../015.xhtml#w196"/>
+			<audio clipBegin="105600ms" clipEnd="106050ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id197">
+			<!-- Jack -->
+			<text src="../015.xhtml#w197"/>
+			<audio clipBegin="106050ms" clipEnd="106700ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id198">
+			<!-- Violet -->
+			<text src="../015.xhtml#w198"/>
+			<audio clipBegin="106700ms" clipEnd="107400ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id199">
+			<!-- and -->
+			<text src="../015.xhtml#w199"/>
+			<audio clipBegin="107400ms" clipEnd="107510ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id200">
+			<!-- Dash -->
+			<text src="../015.xhtml#w200"/>
+			<audio clipBegin="107510ms" clipEnd="108130ms" src="../audio/9781368020800.m4a"/>
+		</par>
+		<par id="id200g">
+			<!--  -->
+			<text src="../015.xhtml#empty1"/>
+			<audio clipBegin="108130ms" clipEnd="109140ms" src="../audio/9781368020800.m4a"/>
+		</par>
+	</body>
+</smil>

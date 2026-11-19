@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="15880ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Joy's -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15880ms" clipEnd="16440ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Greatest -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16440ms" clipEnd="17220ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Joy -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="17220ms" clipEnd="18493ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- By -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="18493ms" clipEnd="18683ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Felicity -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="18683ms" clipEnd="19263ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Glum -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19263ms" clipEnd="20563ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="20563ms" clipEnd="21573ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- by -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="21573ms" clipEnd="21783ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Lori -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="21783ms" clipEnd="22233ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Tyminski -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="22233ms" clipEnd="23073ms" src="../audio/9781484750216.m4a"/>
+    </par>
+    <par id="id10g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="23073ms" clipEnd="23986ms" src="../audio/9781484750216.m4a"/>
+    </par>
+  </body>
+</smil>
